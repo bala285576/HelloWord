@@ -6,5 +6,6 @@ system.out.println("Bala");
 
 obj o=new obj();
 obj o1=new obj();
+obj o2=new obj();
 }
 }
