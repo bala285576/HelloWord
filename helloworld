@@ -3,5 +3,7 @@ public class HelloWorld{
 public static void main(string args[]){
 system.out.println("welcome to hello world program");
 system.out.println("Bala");
+
+obj o=new obj();
 }
 }
